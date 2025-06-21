@@ -7,7 +7,7 @@ Built with **Python** and **PowerShell** during my learning process.
 
 ## 🧰 Tools Included
 
-### 1. 🔍 IP Blacklist Checker (v1.1)
+### 1. 🔍 IP Blacklist Checker (v1.3)
 Scans active TCP connections and compares IPs to a simulated blacklist.
 
 - 📁 Path: `ip-blacklist-checker/`
@@ -50,23 +50,6 @@ Install optional packages:
 none yet
 ```
 
-
-## 🤝 Contributing
-
-Got ideas for new tools or improvements?
-
-1. Fork the repo
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature/your-tool
-   ```
-3. Commit and push your changes:
-   ```bash
-   git commit -m "Add new WSRT tool"
-   git push origin feature/your-tool
-   ```
-4. Submit a pull request with details
-
 ---
 
 ## 📄 License
@@ -79,10 +62,11 @@ See [LICENSE](LICENSE) file for details.
 ## 👨🏽‍💻 Author
 
 **Jinmi-Codes (Koji)**  
-Security+ Certified | LOVES PEANUT BUTTER
+Security+ Certified | I LOVE PEANUTS AND I AM SEVERELY SLEEP DEPRIVED.
 🔗 [GitHub @Jinmi-codes](https://github.com/Jinmi-codes)
 
 ---
 
-> This is a personal project to sharpen my skills in systems, scripting, and security tooling.  
-> The goal is **tools that work**
+> This is a personal project to sharpen my skills in systems, scripting, and security tooling.
+> I made this solely to showcase my understanding of various windows concepts through implementation with python and other scripting languages.
+> I'm so locked in rn!
