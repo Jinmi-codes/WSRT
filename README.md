@@ -16,8 +16,14 @@ Scans active TCP connections and compares IPs to a simulated blacklist.
 
 ---
 
-### 2. 🧪 Process Analyzer *(Coming Soon)*
-Parses active system processes, flags suspicious behavior, and exports logs.
+### 2. 🧠 Process Analyzer (v1.0)
+
+Analyzes running Windows processes for suspicious names, duplicate instances, and abnormal CPU usage.
+
+- 📁 **Path:** `process-analyzer/`
+- 🛠️ **Tech:** Python, PowerShell, `subprocess`, `collections`
+- 📄 [Tool README](process-analyzer/README.md)
+
 
 ### 3. 🚦 Startup Inspector *(Planned)*
 Analyzes system startup entries and identifies insecure or unnecessary items.
