@@ -1,0 +1,217 @@
+
+ProcessName                  Id CPU       
+-----------                  -- ---       
+AggregatorHost             7504           
+AppleMobileDeviceService   3676           
+ApplicationFrameHost      11216 0.390625  
+bash                       2948 171.3125  
+bash                      10012 0         
+CalculatorApp              6164 0.234375  
+cmd                       13884 0.0625    
+cmd                       14488 0.015625  
+cmd                       15604 0.046875  
+Code                        272 8.296875  
+Code                       1272 2431.84375
+Code                       3860 660.84375 
+Code                       5124 720.1875  
+Code                       5772 31.390625 
+Code                       7832 825.078125
+Code                       8296 729.921875
+Code                      12124 0.03125   
+Code                      13040 26.8125   
+Code                      13936 1.03125   
+Code                      14004 27.734375 
+CompPkgSrv                13088 0.078125  
+conhost                     928 0.046875  
+conhost                    1548 0.078125  
+conhost                    7292 1.0625    
+conhost                    8728           
+conhost                   10380 0.078125  
+conhost                   10440 0.078125  
+conhost                   11148 0.078125  
+conhost                   11436 23.421875 
+conhost                   12444 91.5625   
+conhost                   14464 10.265625 
+conhost                   14692 0.015625  
+csrss                       716           
+csrss                     15820           
+ctfmon                     7428 46.859375 
+dasHost                    8952           
+Discord                    1780 17.6875   
+Discord                    2264 0.921875  
+Discord                    6288 715.65625 
+Discord                    8016 48.15625  
+Discord                    8776 38.125    
+Discord                   14688 0.109375  
+dllhost                    5344           
+dllhost                    7580 0.09375   
+dllhost                   10148 0.25      
+dwm                        2708           
+EasyResume                 3896           
+ETDCtrl                    6284 0.40625   
+ETDService                 2128           
+EvtEng                     3756           
+explorer                   6216 84.15625  
+fontdrvhost                1044           
+fontdrvhost                7944           
+ibmpmsvc                   3724           
+Idle                          0           
+igfxCUIService             1152           
+igfxEM                    11212 0.484375  
+igfxext                   13604 0.09375   
+IntelCpHDCPSvc             1508           
+IntelCpHeciSvc             1744           
+jhi_service                3804           
+LITSSvc                    3836           
+LMS                        3984           
+LockApp                    9784 0.40625   
+LsaIso                      968           
+lsass                       980           
+LSB                       11648 1.140625  
+mDNSResponder              3732           
+Memory Compression         2300           
+MicrosoftEdgeUpdate       10044           
+MouseWithoutBorders        6860           
+MouseWithoutBorders        7592           
+MouseWithoutBordersHelper 12120 1.546875  
+MpDefenderCoreService      7256           
+msedgewebview2             5128 0.203125  
+msedgewebview2            10944 0.09375   
+msedgewebview2            11176 0.421875  
+msedgewebview2            13752 0.4375    
+msedgewebview2            14080 1.765625  
+msedgewebview2            14608 0.046875  
+MsMpEng                    9576           
+NisSrv                    13128           
+notepad                    8824 1.046875  
+ollama                    10984 0.53125   
+ollama app                 6932 11.03125  
+OneApp.IGCC.WinService     3708           
+PowerMgr                  10204 9.640625  
+powershell                 5864 8.390625  
+powershell                 9060 0.984375  
+powershell                12060 22.4375   
+powershell                13872 8.625     
+powershell                15892 13.5      
+PresentationFontCache      5876           
+python                     4372 0.4375    
+python                    11364 0.125     
+python                    11872 0.421875  
+Registry                    132           
+RegSrvc                    4012           
+RuntimeBroker              1680 0.0625    
+RuntimeBroker              5504 2.4375    
+RuntimeBroker              5628 4.125     
+RuntimeBroker              6788 2.796875  
+RuntimeBroker             10112 4.609375  
+RuntimeBroker             13352 5.03125   
+SearchApp                  6764 23.078125 
+SearchApp                  8552 1.1875    
+SearchIndexer              5804           
+Secure System                72           
+SecurityHealthService     10396           
+SecurityHealthSystray      2872 0.0625    
+services                    884           
+ShellExperienceHost       10668 14.109375 
+sihost                     4700 3.5       
+smss                        496           
+spoolsv                    3364           
+StartMenuExperienceHost    3292 4.796875  
+svchost                     516           
+svchost                     532           
+svchost                    1124           
+svchost                    1132           
+svchost                    1180           
+svchost                    1248           
+svchost                    1300           
+svchost                    1352           
+svchost                    1380           
+svchost                    1492           
+svchost                    1532           
+svchost                    1600           
+svchost                    1800           
+svchost                    1844           
+svchost                    1856           
+svchost                    1928           
+svchost                    2100           
+svchost                    2108           
+svchost                    2244           
+svchost                    2252           
+svchost                    2292           
+svchost                    2476           
+svchost                    2488           
+svchost                    2568           
+svchost                    2636           
+svchost                    2744 11.234375 
+svchost                    2776           
+svchost                    2784           
+svchost                    2828           
+svchost                    2896           
+svchost                    2904           
+svchost                    2912           
+svchost                    3020           
+svchost                    3076           
+svchost                    3184           
+svchost                    3228           
+svchost                    3236           
+svchost                    3316           
+svchost                    3440           
+svchost                    3564           
+svchost                    3688           
+svchost                    3700           
+svchost                    3716           
+svchost                    3768           
+svchost                    3884           
+svchost                    3992           
+svchost                    4020           
+svchost                    4064           
+svchost                    4104           
+svchost                    4364           
+svchost                    4396           
+svchost                    4572 0.515625  
+svchost                    4660           
+svchost                    4964           
+svchost                    5408           
+svchost                    5664           
+svchost                    6260           
+svchost                    6268           
+svchost                    6304           
+svchost                    6900           
+svchost                    7040           
+svchost                    7648           
+svchost                    8196           
+svchost                    8888           
+svchost                    8908           
+svchost                    8916           
+svchost                    9220           
+svchost                    9848 15.234375 
+svchost                    9892           
+svchost                    9968           
+svchost                   10144           
+svchost                   10200           
+svchost                   10244           
+svchost                   10652           
+svchost                   11576 0.390625  
+svchost                   12816           
+svchost                   12832           
+svchost                   13356           
+svchost                   13844           
+svchost                   14076           
+svchost                   14588           
+svchost                   15336 3.5       
+System                        4           
+SystemSettings             6460 0.796875  
+TabTip                    16340 6.84375   
+taskhostw                  1812 6.25      
+taskhostw                 11720 0.125     
+TextInputHost             13108 19.390625 
+unsecapp                   5564           
+UserOOBEBroker             1092 0.09375   
+wininit                     804           
+winlogon                   3972           
+wlanext                    9956           
+WmiPrvSE                   4784           
+WmiPrvSE                   5712           
+ZeroConfigService          4140           
+
+

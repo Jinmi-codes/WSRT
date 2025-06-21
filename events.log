@@ -1,0 +1,26 @@
+Multiple Instances: 
+[!] cmd is running 3 instances.
+[!] Code is running 11 instances.
+[!] conhost is running 10 instances.
+[!] Discord is running 6 instances.
+[!] dllhost is running 2 instances.
+[!] msedgewebview2 is running 6 instances.
+[!] powershell is running 5 instances.
+[!] python is running 3 instances.
+[!] RuntimeBroker is running 6 instances.
+[!] SearchApp is running 2 instances.
+[!] svchost is running 5 instances.
+[!] taskhostw is running 2 instances.
+ 
+Suspicious Processes: 
+[!] powershell is suspicious! 
+ 
+Abnormal Cpu Usage: 
+[!] PID[1272] Process Code is using 2431.84375
+[!] PID[3860] Process Code is using 660.84375
+[!] PID[5124] Process Code is using 720.1875
+[!] PID[7832] Process Code is using 825.078125
+[!] PID[8296] Process Code is using 729.921875
+[!] PID[12444] Process conhost is using 91.5625
+[!] PID[6288] Process Discord is using 715.65625
+[!] PID[6216] Process explorer is using 84.15625
