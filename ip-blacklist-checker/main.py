@@ -57,27 +57,28 @@ if not any(char in invalid_chars for char in tcp_file) and not any(char in inval
         }
 
 
-
-        print(f"The following TCP connections are active as of {time} :\n-------------------")
-        for ip in clean_iP:
-            print(ip)
-        print("-------------------")
-
-        mal_count = 0
-
-        with open(f"{alert_file}.log", "w") as malicious:
-            malicious.write(f"Time stamp: {time} \n")
+        def log():
+            print(f"The following TCP connections are active as of {time} :\n-------------------")
             for ip in clean_iP:
-                if ip in reputation['clean']:
-                    print(f"{ip} is clean")
-                elif ip in reputation['malicious']:
-                    print(f"[!] { ip} is malicious !!")
-                    malicious.write(f"{ip} \n")
-                elif ip in reputation['safe']:
-                    print(f"{ip} is safe")
+                print(ip)
+            print("-------------------")
+
+            mal_count = 0
+
+            with open(f"{alert_file}.log", "w") as malicious:
+                malicious.write(f"Time stamp: {time} \n")
+                for ip in clean_iP:
+                    if ip in reputation['clean']:
+                        print(f"{ip} is clean")
+                    elif ip in reputation['malicious']:
+                        print(f"[!] { ip} is malicious !!")
+                        malicious.write(f"{ip} \n")
+                    elif ip in reputation['safe']:
+                        print(f"{ip} is safe")
+        log()
     except FileNotFoundError:
         print("[!] Inavlid File.")
         pass
 else:
-    print("[!] Inavlid File name.")
+    print("[!] Invalid File name.")
     pass
